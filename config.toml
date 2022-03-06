@@ -1,8 +1,40 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "Pritirrecetas"
 theme = "cookbook"
 sectionPagesMenu = "main"
+
+defaultContentLanguage = 'es'
+[languages]
+  [languages.en]
+    view_recipe = "View Recipe"
+    title = 'Pritirrecetas EN'
+    weight = 2
+    baseURL = 'https://pritirrecetas.com'
+  [languages.es]
+    view_recipe = "Ver receta"
+    title = 'Pritirrecetas ES'
+    weight = 1
+    baseURL = 'https://pritirrecetas.es'
+    [languages.es.menu]
+      [[languages.es.menu.main]]
+        name = "Página principal"
+        pre = "fas fa-home" #icon, change if you would prefer a different icon
+        url = "/"
+        weight = 1
+      [[languages.es.menu.main]]
+        name = "Etiquetas" # change to w/e you want, tags or categories works best
+        pre = "fas fa-tags" #icon, change if you would prefer a different icon
+        url = "/tags/"
+        weight = 2
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        name = "Home"
+        pre = "fas fa-home" #icon, change if you would prefer a different icon
+        url = "/"
+        weight = 1
+      [[languages.en.menu.main]]
+        name = "Tags" # change to w/e you want, tags or categories works best
+        pre = "fas fa-tags" #icon, change if you would prefer a different icon
+        url = "/tags/"
+        weight = 2
 
 [params.front]
 defaultAuthor = "Gabriel San Martin Fernandez and Silvia Sellan" #Put in the default name of the author of the recipe
