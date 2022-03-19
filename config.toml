@@ -1,5 +1,4 @@
 theme = "cookbook"
-sectionPagesMenu = "main"
 
 defaultContentLanguage = 'es'
 [languages]
@@ -7,38 +6,70 @@ defaultContentLanguage = 'es'
     searchtext = "Search"
     searchtext_placeholder = "Search here..."
     view_recipe = "View Recipe"
+    total_time = "Total time"
+    prep_time = "Prep time"
+    servings = "Servings"
+    mins = "minutes"
+    and = "and"
+    using = "using"
     title = 'Pritirrecetas'
     weight = 2
     baseURL = 'https://pritirrecetas.com'
     [languages.en.menu]
       [[languages.en.menu.main]]
-        name = "Home"
+        name = "Gallery"
         pre = "fas fa-home" #icon, change if you would prefer a different icon
         url = "/"
         weight = 1
       [[languages.en.menu.main]]
-        name = "Tags" # change to w/e you want, tags or categories works best
+        name = "Categories" # change to w/e you want, tags or categories works best
         pre = "fas fa-tags" #icon, change if you would prefer a different icon
         url = "/tags/"
         weight = 2
+      [[languages.en.menu.main]]
+        name = "About" # change to w/e you want, tags or categories works best
+        pre = "fas fa-heart" #icon, change if you would prefer a different icon
+        url = "/about/"
+        weight = 3
+      [[languages.en.menu.main]]
+        name = "ES" # change to w/e you want, tags or categories works best
+        pre = "fas fa-language" #icon, change if you would prefer a different icon
+        url = "/es/"
+        weight = 4
   [languages.es]
     searchtext_placeholder = "Busca aquí..."
     searchtext = "Buscar"
     view_recipe = "Ver receta"
+    total_time = "Tiempo total"
+    prep_time = "Preparación"
+    servings = "Raciones"
+    mins = "minutos"
+    and = "y"
+    using = "con"
     title = 'Pritirrecetas'
     weight = 1
     baseURL = 'https://pritirrecetas.es'
     [languages.es.menu]
       [[languages.es.menu.main]]
-        name = "Página principal"
+        name = "Galería"
         pre = "fas fa-home" #icon, change if you would prefer a different icon
         url = "/"
         weight = 1
       [[languages.es.menu.main]]
-        name = "Etiquetas" # change to w/e you want, tags or categories works best
+        name = "Categorías" # change to w/e you want, tags or categories works best
         pre = "fas fa-tags" #icon, change if you would prefer a different icon
         url = "/tags/"
         weight = 2
+      [[languages.es.menu.main]]
+        name = "¿Quiénes somos?" # change to w/e you want, tags or categories works best
+        pre = "fas fa-heart" #icon, change if you would prefer a different icon
+        url = "/about/"
+        weight = 3
+      [[languages.es.menu.main]]
+        name = "EN" # change to w/e you want, tags or categories works best
+        pre = "fas fa-language" #icon, change if you would prefer a different icon
+        url = "/en/"
+        weight = 4
     
 
 [params.front]
@@ -52,10 +83,10 @@ defaultImageWidth = 512 # default recipe image width
 # The default height/width are the recommended bulma size (112W X 28H), best to get your logo as close as possible to that
 # The site will SCALE your image, but will not force a stretch, so you may need to stretch it in external tool before using.
 [params.logo]
-fileName = "/images/logo.png"
+fileName = "/images/logo-blanco.png"
 #fileName = "images/logo-alt.png" #alt logo if you are interested
 height =  50
-width = 200
+width = 300
 
 [params.favicon]
 fileName = "/images/favicon.svg" #your favicon here if you wish to change it.
