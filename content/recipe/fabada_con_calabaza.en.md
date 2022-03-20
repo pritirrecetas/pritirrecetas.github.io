@@ -2,7 +2,7 @@
 draft: false
 title: "Asturian white bean stew"
 recipe_image: images/fabada-calabaza.jpeg #The image for your recipe
-image_width: 640
+image_width: 740
 image_height: 512
 date: 2022-03-20
 tags: ["vegan"] #tags for your recipe
