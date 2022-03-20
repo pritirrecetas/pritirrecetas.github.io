@@ -1,5 +1,6 @@
 theme = "cookbook"
 publishDir = "docs/"
+baseURL= "https://pritirrecetas.github.io/"
 
 defaultContentLanguage = 'es'
 [languages]
@@ -15,7 +16,6 @@ defaultContentLanguage = 'es'
     using = "using"
     title = 'Pritirrecetas'
     weight = 2
-    baseURL = 'https://pritirrecetas.com'
     [languages.en.menu]
       [[languages.en.menu.main]]
         name = "Gallery"
@@ -49,7 +49,6 @@ defaultContentLanguage = 'es'
     using = "con"
     title = 'Pritirrecetas'
     weight = 1
-    baseURL = 'https://pritirrecetas.es'
     [languages.es.menu]
       [[languages.es.menu.main]]
         name = "Galería"

@@ -2,109 +2,109 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://pritirrecetas.es/recipe/fabada_con_calabaza/</loc>
+    <loc>https://pritirrecetas.github.io/recipe/fabada_con_calabaza/</loc>
     <lastmod>2022-03-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pritirrecetas.com/recipe/fabada_con_calabaza/"
+                href="https://pritirrecetas.github.io/en/recipe/fabada_con_calabaza/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://pritirrecetas.es/recipe/fabada_con_calabaza/"
+                href="https://pritirrecetas.github.io/recipe/fabada_con_calabaza/"
                 />
   </url><url>
-    <loc>https://pritirrecetas.es/recipe/garbanzos_con_espinacas/</loc>
+    <loc>https://pritirrecetas.github.io/recipe/garbanzos_con_espinacas/</loc>
     <lastmod>2022-03-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pritirrecetas.com/recipe/garbanzos_con_espinacas/"
+                href="https://pritirrecetas.github.io/en/recipe/garbanzos_con_espinacas/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://pritirrecetas.es/recipe/garbanzos_con_espinacas/"
+                href="https://pritirrecetas.github.io/recipe/garbanzos_con_espinacas/"
                 />
   </url><url>
-    <loc>https://pritirrecetas.es/</loc>
+    <loc>https://pritirrecetas.github.io/</loc>
     <lastmod>2022-03-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pritirrecetas.com/"
+                href="https://pritirrecetas.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://pritirrecetas.es/"
+                href="https://pritirrecetas.github.io/"
                 />
   </url><url>
-    <loc>https://pritirrecetas.es/recipe/</loc>
+    <loc>https://pritirrecetas.github.io/recipe/</loc>
     <lastmod>2022-03-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pritirrecetas.com/recipe/"
+                href="https://pritirrecetas.github.io/en/recipe/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://pritirrecetas.es/recipe/"
+                href="https://pritirrecetas.github.io/recipe/"
                 />
   </url><url>
-    <loc>https://pritirrecetas.es/tags/</loc>
+    <loc>https://pritirrecetas.github.io/tags/</loc>
     <lastmod>2022-03-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pritirrecetas.com/tags/"
+                href="https://pritirrecetas.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://pritirrecetas.es/tags/"
+                href="https://pritirrecetas.github.io/tags/"
                 />
   </url><url>
-    <loc>https://pritirrecetas.es/tags/vegano/</loc>
+    <loc>https://pritirrecetas.github.io/tags/vegano/</loc>
     <lastmod>2022-03-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pritirrecetas.es/recipe/fabada_con_calabacin/</loc>
+    <loc>https://pritirrecetas.github.io/recipe/fabada_con_calabacin/</loc>
     <lastmod>2022-03-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pritirrecetas.com/recipe/fabada_con_calabacin/"
+                href="https://pritirrecetas.github.io/en/recipe/fabada_con_calabacin/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://pritirrecetas.es/recipe/fabada_con_calabacin/"
+                href="https://pritirrecetas.github.io/recipe/fabada_con_calabacin/"
                 />
   </url><url>
-    <loc>https://pritirrecetas.es/categories/</loc>
+    <loc>https://pritirrecetas.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pritirrecetas.com/categories/"
+                href="https://pritirrecetas.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://pritirrecetas.es/categories/"
+                href="https://pritirrecetas.github.io/categories/"
                 />
   </url><url>
-    <loc>https://pritirrecetas.es/about/</loc>
+    <loc>https://pritirrecetas.github.io/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pritirrecetas.com/about/"
+                href="https://pritirrecetas.github.io/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://pritirrecetas.es/about/"
+                href="https://pritirrecetas.github.io/about/"
                 />
   </url>
 </urlset>

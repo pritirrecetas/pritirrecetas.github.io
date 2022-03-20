@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/svg+xml" href="/images/favicon.svg">
+    <link rel="stylesheet" type="text/css" href="/css/bulma.min.css">
+    <link rel="stylesheet" type="text/css" href="/css/custom.css">
+    <script src="https://kit.fontawesome.com/b7002cebe4.js" crossorigin="anonymous"></script>
+    
+    
+    <title>Pritirrecetas | Garbanzos con espinacas</title>
+</head><body><div id="alert" class="notification is-danger is-hidden" style="position: absolute; bottom: 0; right: 0; z-index:99">
+    Alert
+</div><style>
+    a{
+        color:#00d1b2;
+    }
+    </style>
+    <nav class="navbar is-primary" role="navigation" aria-label="main navigation">
+    <div class="navbar-brand">
+        <a class="navbar-brand">
+            
+                <img src="/images/logo-blanco.png" width="300" height="50">
+            
+        </a>
+        <a id="navBarButton" role="button" class="navbar-burger" aria-label="menu" aria-expanded="false">
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+        </a>
+    </div>
+    <div id="navBarMenu" class="navbar-menu">
+        <div class="navbar-start" style="font-size:120%">
+            
+            <a class="navbar-item" href="/">
+            
+            <i class="fas fa-home pr-2"></i> 
+            Galería</a>
+            
+            <a class="navbar-item" href="/tags/">
+            
+            <i class="fas fa-tags pr-2"></i> 
+            Categorías</a>
+            
+            <a class="navbar-item" href="/about/">
+            
+            <i class="fas fa-heart pr-2"></i> 
+            ¿Quiénes somos?</a>
+            
+            <a class="navbar-item" href="/en/">
+            
+            <i class="fas fa-language pr-2"></i> 
+            EN</a>
+            
+        </div>
+        <div class="navbar-end">
+            <div class="navbar-item">
+                <form class="field has-addons">
+                    <div class="control">
+                        <input class="input" id="searchTerm" type="text" value="" placeholder=Busca&#32;aquí...>
+                    </div>
+                    <div class="control">
+                        <button id="searchButton" class="button is-secondary">Buscar</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</nav><div id="searchResults" class="section is-hidden">
+    <h4 class="title is-3"> Search results </h4>
+    <div id="searchResultsCol" class="columns is-multiline">
+        
+    </div>
+</div>
+<script id="search-result-template" type="text/x-js-template">
+    <div class="column is-one-quarter">
+        <div class="result" id="summary-${key}">
+            <div class="card" style="border-radius: 1%;">
+    <div class="card-image">
+        <figure class="image is-4by3">
+        <img style="border-radius: 3%;" src="${image}" alt="Placeholder image">
+        </figure>
+    </div>
+    <div class="card-content">
+        <div class="media-content">
+            <p class="title is-4 has-text-centered">${title}</p>
+            <p class="subtitle is-6 "><em></em></p>
+        </div>
+        <div class="content">
+            <p class="is-small">${snippet}</p>
+        </div>
+        <div class="card-footer">
+            <a href="${link}" class="card-footer-item button is-primary">View Recipe</a>
+        </div>
+    </div>
+</div>
+        </div>
+    </div>
+</script><div id="content">
+<div class="section">
+    <div class="columns is-centered">
+        <div class="column is-full-mobile is-half-desktop" style="border-radius: 1%; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)">
+            <div class="is-flex" style="justify-content: center; border-radius: 3%; background-color: #f0f5f1; position: relative;">
+                <figure class="image"> 
+                    <img style="border-radius: 3%; width: 640px; height: 512px" src=https://pritirrecetas.github.io/images/garbanzos-con-espinacas.jpeg alt="Placeholder image">
+                </figure>
+            </div>
+            <br>
+            <div class="container has-text-centered">
+                <h1 class="title is-bold"> Garbanzos con espinacas</h1>
+                <p class="subtitle is-italic"> </p>
+                <br>
+                <div class="container has-text-right">
+                    
+
+<i class="far fa-calendar-alt"></i>
+<time datetime="03-20-2022">20 mar. 2022</time>
+
+<i class="fas fa-tags"></i>
+
+
+<a class="btn btn-sm btn-outline-dark tag-btn" href="https://pritirrecetas.github.io/tags/vegano">vegano</a>
+
+
+                </div>
+                <hr>
+            </div>
+            <div class="container has-text-centered"style="padding: 1em">    
+                <div class="columns is-mobile is-multiline">
+    <div class="column is-half-mobile" style="border-right: 1px solid #dbdbdb">
+        <i class="fas fa-concierge-bell fa-lg"></i>
+        <div></div>
+        <p class="has-text-weight-bold is-size-6">Raciones</p>
+        <div></div>
+        6
+    </div>
+    <div class="column is-half-mobile" style="border-right: 1px solid #dbdbdb">
+        <i class="fas fa-hourglass-half fa-lg"></i>
+        <div></div>
+        <p class="has-text-weight-bold is-size-6">Preparación</p>
+        <div></div>
+        15 minutos
+    </div>
+    <div class="column is-half-mobile" style="border-right: 1px solid #dbdbdb">
+        <i class="fas fa-temperature-high fa-lg"></i>
+        <div></div>
+        
+            <p class="has-text-weight-bold is-size-6">Tiempo total</p>
+        
+        <div></div>
+        
+            45 - 90 minutos
+        
+    </div>
+</div>
+            </div>
+            <hr>
+            <p class="subtitle is-italic"> </p>
+            <div class="content" style="padding: 1em">
+                <p>Esta receta se la mangamos a la madre de Silvia. Nos la preparaba cuando nos fuimos a vivir juntos y no se fiaba de nuestra capacidad para nutrirnos. Ahora es uno de los cocidos que preparamos a menudo en épocas de frío. Si crees que igual tanto verde no es para ti, ¡dale una oportunidad! Te prometemos que es un plato con mucho sabor y que la viscosidad de las espinacas cocinadas se puede mitigar con algunos truquillos.</p>
+<p>Compramos legumbres secas para reducir la cantidad de basura que generamos, pero los tarros de legumbres precocinadas sirven a la perfección y reducen el tiempo de preparación a la mitad. No te podemos juzgar porque, por otro lado, usamos espinacas congeladas por comodidad.</p>
+<h2 id="ingredientes">Ingredientes</h2>
+<ul>
+<li>500 g de garbanzos secos o dos tarros de 400 g (peso escurrido) de garbanzos precocinados</li>
+<li>300 g de espinacas enteras congeladas (usa menos cantidad o espinaca picada si no te va la textura pringosa)</li>
+<li>2 cebollas</li>
+<li>4 dientes de ajo o tantos como puedas picar antes de hartarte</li>
+<li>1 cucharada de pimentón de la Vera (de la Vera o no sabrá igual, haznos caso)</li>
+<li>4 cucharadas de aceite de oliva extra virgen</li>
+</ul>
+<h2 id="pasos">Pasos</h2>
+<ol>
+<li>
+<p>Si vas a usar garbanzos secos, déjalos a remojo en abundante agua templada la noche anterior. El día de la preparación, cuela el agua que quede, llena una olla de agua sin sal y cuece en ella los garbanzos durante al menos una hora o hasta que estén tiernos. A los pocos minutos de romper a hervir, observarás que empieza a brotar una espuma misteriosa. A eso le llamamos asquete, pero también se conoce como aquafaba y por lo visto se puede usar como sustituto de clara de huevo por su textura y contenido proteico o algo que suena así muy centrífico. Si conoces alguna receta recomendable con aquafaba, ¡que rule! Vayas a aprovecharla o no, retírala con un cucharón o similar. Cuando los garbanzos estén listos, cuela el agua y resérvalos.</p>
+</li>
+<li>
+<p>Pica el ajo y las cebollas. Calienta la mitad del aceite (dos cucharadas) a fuego medio en la olla más grande que tengas en casa, fríe la mitad del ajo hasta que se dore y, después, añade la cebolla. Por lo que hemos visto, la mayoría de la gente añade el ajo con la cebolla o después de ella, pero para nosotros eso es pecado. A nosotros nos gusta que el ajo quede crujiente y sabroso, tú hazlo a tu gusto. Remueve de vez en cuando hasta que la cebolla esté transparente.</p>
+</li>
+<li>
+<p>Añade las espinacas (frescas o congeladas) y remueve con frecuencia hasta que se ablanden o descongelen, respectivamente.</p>
+</li>
+<li>
+<p>En una sartén pequeña, calienta la otra mitad del aceite a fuego medio y fríe en ella la otra mitad del ajo hasta que se dore. Cuando esté listo, añade el pimentón, remuévelo para que se junte con el aceite y retira la sartén del fuego a los pocos segundos para que no se queme. Vuélcalo en la olla con la verdura. Quizá te preguntes por qué no lo cocinamos todo en la olla y ya está. No sabemos por qué pero así sabe mucho mejor. Llámalo magia o llama a la madre de Silvia para que te lo explique.</p>
+</li>
+<li>
+<p>Mezcla las verduras con el rico aceite al ajo y pimentón, y añade los garbanzos cocidos. Remueve todo bien y echa agua caliente hasta que cubra los ingredientes, o un dedo más si prefieres que quede caldoso. Sube el fuego hasta que el agua rompa a hervir y vuelve a bajarlo a fuego medio. Déjalo cociendo una media hora para que los ingredientes absorban todos los sabores, sala al gusto y sírvelo humeante.</p>
+</li>
+</ol>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+        </div><p class="footer text-center">© 2022 Gabriel San Martín Fernández y Silvia González Sellán, con <a href="https://github.com/deranjer/hugo-cookbook" target="_blank">Hugo Cookbook Theme</a>, <a href="https://fontawesome.com/license/free" target="_blank">Font Awesome Icons</a> y  <a href="https://bulma.io/" target="_blank">Bulma CSS</a>.</p><script src="/js/umbrella.min.js"></script>
+<script src="/js/custom.js"></script>
+<script src="/js/menu.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.0/fuse.min.js"></script>
+
+</body>
+</html>
