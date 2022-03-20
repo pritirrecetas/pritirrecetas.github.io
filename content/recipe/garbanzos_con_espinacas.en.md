@@ -37,7 +37,7 @@ We buy dry legumes in order to reduce the amount of cans and trash we produce, b
 
 3. Add the spinach (frozen or fresh) and cook, stirring frequently until it thaws or wilts, respectively.
 
-4. In a small pan, heat the other half of the oil over medium, and fry the other half of garlic until golden. Then, add the paprika (pimentón de la Vera, last warning) and cook it for a few seconds so that it doesn’t burn. When it’s done, add it to the pot with the vegetables. You may ask why we don’t cook it all in the pot. We don’t know why, but it tastes so much better this way. Call it magic or call Silvia’s mother.
+4. In a smll pan, heat the other half of the oil over medium, and fry the other half of garlic until golden. Then, add the paprika (pimentón de la Vera, last warning) and cook it for a few seconds so that it doesn’t burn. When it’s done, add it to the pot with the vegetables. You may ask why we don’t cook it all in the pot. We don’t know why, but it tastes so much better this way. Call it magic or call Silvia’s mother.
 
 5. Mix the vegetables with the garlicky, papriky oil, and add the cooked chickpeas. Stir them well and add hot water until it covers the ingredients, or a little more if you prefer a brothy stew. Set heat to high until the water starts boiling, then lower back to medium. Cook for half an hour until the ingredients absorb all the flavours, salt to taste and serve.
 
