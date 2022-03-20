@@ -88,8 +88,8 @@ fileName = "/images/logo-blanco.png"
 height =  50
 width = 300
 
-[params.favicon]
-fileName = "/images/favicon.svg" #your favicon here if you wish to change it.
+# [params.favicon]
+# fileName = "/images/favicon.svg" #your favicon here if you wish to change it.
 
 
 
