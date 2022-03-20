@@ -4,7 +4,7 @@ title: "Garbanzos con espinacas"
 recipe_image: images/garbanzos-con-espinacas.jpeg #The image for your recipe
 image_width: 640
 image_height: 512
-date: 2022-03-19
+date: 2022-03-20
 tags: ["vegano"] #tags for your recipe
 servings: 6
 prep_time: 15 #in minutes #can be BLANK
@@ -39,4 +39,4 @@ Compramos legumbres secas para reducir la cantidad de basura que generamos, pero
 
 4. En una sartén pequeña, calienta la otra mitad del aceite a fuego medio y fríe en ella la otra mitad del ajo hasta que se dore. Cuando esté listo, añade el pimentón, remuévelo para que se junte con el aceite y retira la sartén del fuego a los pocos segundos para que no se queme. Vuélcalo en la olla con la verdura. Quizá te preguntes por qué no lo cocinamos todo en la olla y ya está. No sabemos por qué pero así sabe mucho mejor. Llámalo magia o llama a la madre de Silvia para que te lo explique.
 
-5. Mezcla las verduras con el rico aceite al ajo y pimentón, y añade los garbanzos cocidos. Remueve todo bien y echa agua caliente hasta que cubra los demás ingredientes, o un dedo más si prefieres que quede caldoso. Sube el fuego hasta que el agua rompa a hervir y vuelve a bajarlo a fuego medio. Déjalo cociendo una media hora para que los ingredientes absorban todos los sabores, sala al gusto y sírvelo humeante.
+5. Mezcla las verduras con el rico aceite al ajo y pimentón, y añade los garbanzos cocidos. Remueve todo bien y echa agua caliente hasta que cubra los ingredientes, o un dedo más si prefieres que quede caldoso. Sube el fuego hasta que el agua rompa a hervir y vuelve a bajarlo a fuego medio. Déjalo cociendo una media hora para que los ingredientes absorban todos los sabores, sala al gusto y sírvelo humeante.
