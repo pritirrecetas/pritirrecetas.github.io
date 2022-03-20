@@ -20,22 +20,22 @@ defaultContentLanguage = 'es'
       [[languages.en.menu.main]]
         name = "Gallery"
         pre = "fas fa-home" #icon, change if you would prefer a different icon
-        url = "/"
+        url = "/en/"
         weight = 1
       [[languages.en.menu.main]]
         name = "Categories" # change to w/e you want, tags or categories works best
         pre = "fas fa-tags" #icon, change if you would prefer a different icon
-        url = "/tags/"
+        url = "/en/tags/"
         weight = 2
       [[languages.en.menu.main]]
         name = "About" # change to w/e you want, tags or categories works best
         pre = "fas fa-heart" #icon, change if you would prefer a different icon
-        url = "/about/"
+        url = "/en/about/"
         weight = 3
       [[languages.en.menu.main]]
         name = "ES" # change to w/e you want, tags or categories works best
         pre = "fas fa-language" #icon, change if you would prefer a different icon
-        url = "/es/"
+        url = "/"
         weight = 4
   [languages.es]
     searchtext_placeholder = "Busca aquí..."
