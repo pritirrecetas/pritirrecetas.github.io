@@ -1,6 +1,6 @@
 theme = "cookbook"
 publishDir = "docs/"
-baseURL= "https://pritirrecetas.github.io/"
+baseURL= "www.pritirrecetas.com"
 
 defaultContentLanguage = 'es'
 [languages]
