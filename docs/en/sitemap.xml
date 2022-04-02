@@ -2,96 +2,96 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>www.pritirrecetas.com/en/recipe/fabada_con_calabaza/</loc>
+    <loc>https://pritirrecetas.github.io/en/recipe/fabada_con_calabaza/</loc>
     <lastmod>2022-03-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="www.pritirrecetas.com/recipe/fabada_con_calabaza/"
+                href="https://pritirrecetas.github.io/recipe/fabada_con_calabaza/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="www.pritirrecetas.com/en/recipe/fabada_con_calabaza/"
+                href="https://pritirrecetas.github.io/en/recipe/fabada_con_calabaza/"
                 />
   </url><url>
-    <loc>www.pritirrecetas.com/en/recipe/garbanzos_con_espinacas/</loc>
+    <loc>https://pritirrecetas.github.io/en/recipe/garbanzos_con_espinacas/</loc>
     <lastmod>2022-03-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="www.pritirrecetas.com/recipe/garbanzos_con_espinacas/"
+                href="https://pritirrecetas.github.io/recipe/garbanzos_con_espinacas/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="www.pritirrecetas.com/en/recipe/garbanzos_con_espinacas/"
+                href="https://pritirrecetas.github.io/en/recipe/garbanzos_con_espinacas/"
                 />
   </url><url>
-    <loc>www.pritirrecetas.com/en/</loc>
+    <loc>https://pritirrecetas.github.io/en/</loc>
     <lastmod>2022-03-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="www.pritirrecetas.com/"
+                href="https://pritirrecetas.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="www.pritirrecetas.com/en/"
+                href="https://pritirrecetas.github.io/en/"
                 />
   </url><url>
-    <loc>www.pritirrecetas.com/en/recipe/</loc>
+    <loc>https://pritirrecetas.github.io/en/recipe/</loc>
     <lastmod>2022-03-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="www.pritirrecetas.com/recipe/"
+                href="https://pritirrecetas.github.io/recipe/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="www.pritirrecetas.com/en/recipe/"
+                href="https://pritirrecetas.github.io/en/recipe/"
                 />
   </url><url>
-    <loc>www.pritirrecetas.com/en/tags/</loc>
+    <loc>https://pritirrecetas.github.io/en/tags/</loc>
     <lastmod>2022-03-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="www.pritirrecetas.com/tags/"
+                href="https://pritirrecetas.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="www.pritirrecetas.com/en/tags/"
+                href="https://pritirrecetas.github.io/en/tags/"
                 />
   </url><url>
-    <loc>www.pritirrecetas.com/en/tags/vegan/</loc>
+    <loc>https://pritirrecetas.github.io/en/tags/vegan/</loc>
     <lastmod>2022-03-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>www.pritirrecetas.com/en/about/</loc>
+    <loc>https://pritirrecetas.github.io/en/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="www.pritirrecetas.com/about/"
+                href="https://pritirrecetas.github.io/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="www.pritirrecetas.com/en/about/"
+                href="https://pritirrecetas.github.io/en/about/"
                 />
   </url><url>
-    <loc>www.pritirrecetas.com/en/categories/</loc>
+    <loc>https://pritirrecetas.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="www.pritirrecetas.com/categories/"
+                href="https://pritirrecetas.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="www.pritirrecetas.com/en/categories/"
+                href="https://pritirrecetas.github.io/en/categories/"
                 />
   </url>
 </urlset>

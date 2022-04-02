@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recipes on Pritirrecetas</title>
-    <link>www.pritirrecetas.com/recipe/</link>
+    <link>https://pritirrecetas.github.io/recipe/</link>
     <description>Recent content in Recipes on Pritirrecetas</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 20 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="www.pritirrecetas.com/recipe/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://pritirrecetas.github.io/recipe/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fabada asturiana vegana</title>
-      <link>www.pritirrecetas.com/recipe/fabada_con_calabaza/</link>
+      <link>https://pritirrecetas.github.io/recipe/fabada_con_calabaza/</link>
       <pubDate>Sun, 20 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>www.pritirrecetas.com/recipe/fabada_con_calabaza/</guid>
+      <guid>https://pritirrecetas.github.io/recipe/fabada_con_calabaza/</guid>
       <description>Nacimos y crecimos en Asturias, así que nuestra primera receta tenía que ser una fabada. Dicho plato contiene la personalidad de nuestra tierrina: de clase trabajadora, humilde pero fuerte. Ahora vivimos bastante lejos y, como somos un par de ratones de biblioteca que trabajan desde casa y no en una mina, no podemos consumir cantidades ingentes de grasa sin que nos dé un pampurrio. Además, por razones éticas intentamos comer el mínimo posible de productos de origen animal, pero confesamos que cuando volvemos a casa de visita, nuestras madres nos cocinan fabada con todo su amor, y la comemos a regañadientes con una pizca de culpa y un buen puñado de compango.</description>
     </item>
     
     <item>
       <title>Garbanzos con espinacas</title>
-      <link>www.pritirrecetas.com/recipe/garbanzos_con_espinacas/</link>
+      <link>https://pritirrecetas.github.io/recipe/garbanzos_con_espinacas/</link>
       <pubDate>Sun, 20 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>www.pritirrecetas.com/recipe/garbanzos_con_espinacas/</guid>
+      <guid>https://pritirrecetas.github.io/recipe/garbanzos_con_espinacas/</guid>
       <description>Esta receta se la mangamos a la madre de Silvia. Nos la preparaba cuando nos fuimos a vivir juntos y no se fiaba de nuestra capacidad para nutrirnos. Ahora es uno de los cocidos que preparamos a menudo en épocas de frío. Si crees que igual tanto verde no es para ti, ¡dale una oportunidad! Te prometemos que es un plato con mucho sabor y que la viscosidad de las espinacas cocinadas se puede mitigar con algunos truquillos.</description>
     </item>
     
