@@ -17,7 +17,7 @@ cook_time: "50" #in minutes #can be BLANK
 When Silvia was 18, her Monday home-from-school tradition was to cook a pot full of pasta and eat all of it plain while watching the latest Game of Thrones episode. Fortunately for us, both her palate and intestine have evolved greatly since then and, fortunately for humanity as a whole, Game of Thrones’ final season is but a vague collective memory today.
 
 This pasta recipe is loosely inspired by the [traditional bolognese](https://youtu.be/Gyz7s3cFjZU), but it includes more vegetables and uses a vegan substitute for ground meat. Gabriel hopes that no former colleagues or flatmates come after his head if they read this. In the traditional bolognese, the meat is cooked in the sauce, but the day we make it we like to serve it with crispy plant-based ground “meat” straight from the pan. Afterwards, we store the leftovers with the sauce in one of the countless containers that Silvia bought after she awakened to the wonders of adulthood.
-a
+
 Ingredient-wise, you could use canned tomatoes, passata or tomato paste, but why not enjoy the good things in life and use fresh tomatoes. Zucchini is one of our favourite vegetables because of its versatility and its subtle flavour. We like to add it to our recipes for an extra dose of veggies, so we use it all year round, even though it’s in season only in summer. Shame, shame! Damnit, we brought Game of Thrones to our minds again.
 
 ## Ingredients
