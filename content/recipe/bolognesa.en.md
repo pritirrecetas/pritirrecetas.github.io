@@ -1,6 +1,6 @@
 ---
-draft: true
-title: "Pasta pritignesa"
+draft: false
+title: "Pasta pritignese"
 recipe_image: images/bolognesa.jpeg #The image for your recipe
 image_width: 640
 image_height: 512
@@ -32,9 +32,9 @@ Ingredient-wise, you could use canned tomatoes, passata or tomato paste, but why
 - 200 g frozen vegan ground "meat"
 - 1 tablespoon oregano
 - 1 teaspoon paprika (you don't have to use *Pimentón de la Vera* this time)
-- 2 teaspoon garlic powder
+- 2 teaspoons garlic powder
 - (Optional) Half a teaspoon of pepper
-- 2 tablespoons extra virgin olive oil or another vegetable oil if you are a heathen
+- 2 tablespoons extra virgin olive oil
 - (Optional) Grated cheese, for serving
 
 ## Directions

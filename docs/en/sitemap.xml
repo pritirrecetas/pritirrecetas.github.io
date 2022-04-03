@@ -2,6 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://pritirrecetas.github.io/en/recipe/bolognesa/</loc>
+    <lastmod>2022-04-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://pritirrecetas.github.io/recipe/bolognesa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pritirrecetas.github.io/en/recipe/bolognesa/"
+                />
+  </url><url>
+    <loc>https://pritirrecetas.github.io/en/</loc>
+    <lastmod>2022-04-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://pritirrecetas.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pritirrecetas.github.io/en/"
+                />
+  </url><url>
+    <loc>https://pritirrecetas.github.io/en/recipe/</loc>
+    <lastmod>2022-04-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://pritirrecetas.github.io/recipe/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pritirrecetas.github.io/en/recipe/"
+                />
+  </url><url>
+    <loc>https://pritirrecetas.github.io/en/tags/</loc>
+    <lastmod>2022-04-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://pritirrecetas.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pritirrecetas.github.io/en/tags/"
+                />
+  </url><url>
+    <loc>https://pritirrecetas.github.io/en/tags/vegan/</loc>
+    <lastmod>2022-04-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://pritirrecetas.github.io/en/recipe/fabada_con_calabaza/</loc>
     <lastmod>2022-03-20T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -27,48 +82,6 @@
                 hreflang="en"
                 href="https://pritirrecetas.github.io/en/recipe/garbanzos_con_espinacas/"
                 />
-  </url><url>
-    <loc>https://pritirrecetas.github.io/en/</loc>
-    <lastmod>2022-03-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://pritirrecetas.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://pritirrecetas.github.io/en/"
-                />
-  </url><url>
-    <loc>https://pritirrecetas.github.io/en/recipe/</loc>
-    <lastmod>2022-03-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://pritirrecetas.github.io/recipe/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://pritirrecetas.github.io/en/recipe/"
-                />
-  </url><url>
-    <loc>https://pritirrecetas.github.io/en/tags/</loc>
-    <lastmod>2022-03-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://pritirrecetas.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://pritirrecetas.github.io/en/tags/"
-                />
-  </url><url>
-    <loc>https://pritirrecetas.github.io/en/tags/vegan/</loc>
-    <lastmod>2022-03-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pritirrecetas.github.io/en/about/</loc>
     <xhtml:link

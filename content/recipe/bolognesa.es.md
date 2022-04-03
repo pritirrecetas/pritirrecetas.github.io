@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "Pasta pritiñesa"
 recipe_image: images/bolognesa.jpeg #The image for your recipe
 image_width: 640
@@ -16,7 +16,7 @@ cook_time: "50" #in minutes #can be BLANK
 
 Cuando Silvia tenía 18 años, su tradición de los lunes al volver de la universidad era cocinar una olla entera de pasta y comerla a palo seco viendo el nuevo episodio de *Juego de tronos*. Por suerte para nosotros, tanto su paladar como su intestino han evolucionado bastante desde entonces, y por suerte para la humanidad, la última temporada de *Juego de tronos* no es ya más que un tenue recuerdo en la memoria colectiva.
 
-Esta receta de pasta se inspira vagamente en la [boloñesa tradicional](https://youtu.be/Gyz7s3cFjZU), pero nuestra versión incluye más verduras y usa un sustituto vegano de la carne picada. Gabriel espera que no venga nadie con quien haya trabajado o compartido piso clamando que le corten la cabeza por haber leído esto. En la boloñesa tradicional, se cocina la carne con la salsa, pero el día que la preparamos nos gusta servir el sustituto vegano que usamos todavía crujiente al sacarlo de la sartén. Después sí que lo juntamos con la salsa en uno de los innumerables recipientes que Silvia compró tras despertar a los placeres de la edad adulta y dejar atrás los traumas del plan Bolonia.
+Esta receta de pasta se inspira vagamente en la [boloñesa tradicional](https://youtu.be/Gyz7s3cFjZU), pero nuestra versión incluye más verduras y usa un sustituto vegano de la carne picada. Gabriel espera que no venga nadie con quien haya trabajado o compartido piso clamando que le corten la cabeza por haber leído esto. En la boloñesa tradicional, se cocina la carne mezclada con la salsa, pero el día que la preparamos nos gusta freír el sustituto vegano aparte y servirlo crujiente recién sacado de la sartén. Después sí que lo juntamos con la salsa en uno de los innumerables recipientes que Silvia compró tras despertar a los placeres de la edad adulta y dejar atrás los traumas del plan Bolonia.
 
 En cuanto a los ingredientes, se podrían usar tomates en formato salsa o enlatado, pero ¿por qué no disfrutar las delicias de la vida y decantarnos por tomates frescos? El calabacín es una de nuestras verduras preferidas porque es versátil y de sabor suave. Nos gusta añadirlo a las recetas para llegar antes a las cinco piezas diarias, así que aunque su temporada propiamente dicha sea el verano, lo tomamos todo el año. ¡Vergüenza, vergüenza! Mecachis, ya estamos volviendo a pensar en *Juego de tronos*.
 
@@ -29,7 +29,7 @@ En cuanto a los ingredientes, se podrían usar tomates en formato salsa o enlata
 - (Opcional) 1 ramita de apio
 - (Opcional) 1 zanahoria pequeña
 - 2 tomates
-- 250 g de pasta 
+- 250 g de la pasta que elijas 
 - 200 g de sustituto vegano de carne picada
 - 1 cucharada de orégano
 - 1 cucharadita de pimentón (esta vez puede no ser pimentón de la Vera)
