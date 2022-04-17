@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "Fabes con calabacín"
 recipe_image: images/fabada-de-calabacin.jpeg #The image for your recipe
 image_width: 640
@@ -34,7 +34,7 @@ La idea de esta receta es imitar otro plato clásico asturiano: fabes con almeja
 
 1. Si vas a usar legumbres secas, déjalas a remojo en abundante agua fría la noche anterior. El día de la preparación, cuela el agua que quede y resérvalas.
 
-2. Pica el ajo y las cebollas. Calienta el aceite a fuego medio en la olla más grande que tengas en casa, fríe la mitad del ajo hasta que se dore y, después, añade la cebolla. Remueve de vez en cuando hasta que la cebolla esté transparente.
+2. Pica el ajo y las cebollas. Calienta el aceite a fuego medio en la olla más grande que tengas en casa, fríe el ajo hasta que se dore y, después, añade la cebolla. Remueve de vez en cuando hasta que la cebolla esté transparente.
 
 3. Corta el calabacín en trozos pequeños, échalo a la olla y remueve. Cocínalo unos cinco minutos. 
 
@@ -42,4 +42,4 @@ La idea de esta receta es imitar otro plato clásico asturiano: fabes con almeja
 
 5. Añade las legumbres y el perejil, y remueve para que los ingredientes se impregnen de los sabores. Si usas legumbres crudas, añade agua caliente hasta que los cubra por completo y sigue echando toda la que puedas sin que se desborde cuando hierva. Esto lo decimos porque se tendrán que cocer durante mucho rato y siempre cubiertas de agua para que se hagan bien, así que te ahorrará dar varios viajes para añadir más agua y volver a hacer que hierva. Si usas legumbres precocinadas o de tarro, vale con que el agua cubra los demás ingredientes. Sube el fuego hasta que el agua rompa a hervir y vuelve a bajarlo a fuego medio.
 
-6. Cuécelo por lo menos una hora o hasta que el caldo se espese y las legumbres estén tiernas. Ten en cuenta que se espesará más aún cuando repose. Sálalo al gusto y sírvelo caliente. 
+6. Cuécelo por lo menos una hora o hasta que el caldo se espese y las legumbres estén tiernas. Ten en cuenta que se espesará más aún cuando repose. Sálalo al gusto y sírvelo caliente. ¡Provechinos!

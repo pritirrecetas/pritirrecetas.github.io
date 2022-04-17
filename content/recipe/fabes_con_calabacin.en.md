@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "Bean & zucchini stew"
 recipe_image: images/fabada-de-calabacin.jpeg #The image for your recipe
 image_width: 640
