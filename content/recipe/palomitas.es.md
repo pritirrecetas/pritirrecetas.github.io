@@ -5,7 +5,7 @@ recipe_image: images/popcorn.jpeg #The image for your recipe
 image_width: 640
 image_height: 512
 date: 2022-05-01
-tags: ["vegano", "aperitivo"] #tags for your recipe
+tags: ["vegano"] #tags for your recipe
 servings: 2
 prep_time: 0 #in minutes #can be BLANK
 cook: true # If we are cooking this, leave true, if we are cooling set to false
