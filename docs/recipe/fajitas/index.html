@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/svg+xml" href="/images/favicon.svg">
+    <link rel="stylesheet" type="text/css" href="/css/bulma.min.css">
+    <link rel="stylesheet" type="text/css" href="/css/custom.css">
+    <script src="https://kit.fontawesome.com/b7002cebe4.js" crossorigin="anonymous"></script>
+    
+    
+    <title>Pritirrecetas | Fajitas</title>
+</head>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-H0NYSXQTDV"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-H0NYSXQTDV');
+</script><body><div id="alert" class="notification is-danger is-hidden" style="position: absolute; bottom: 0; right: 0; z-index:99">
+    Alert
+</div><style>
+    a{
+        color:#00d1b2;
+    }
+    </style>
+    <nav class="navbar is-primary" role="navigation" aria-label="main navigation">
+    <div class="navbar-brand">
+        <a class="navbar-brand">
+            
+                <img src="/images/logo-blanco.png" width="300" height="50">
+            
+        </a>
+        <a id="navBarButton" role="button" class="navbar-burger" aria-label="menu" aria-expanded="false">
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+        </a>
+    </div>
+    <div id="navBarMenu" class="navbar-menu">
+        <div class="navbar-start" style="font-size:120%">
+            
+            <a class="navbar-item" href="/">
+            
+            <i class="fas fa-home pr-2"></i> 
+            Galería</a>
+            
+            <a class="navbar-item" href="/tags/">
+            
+            <i class="fas fa-tags pr-2"></i> 
+            Categorías</a>
+            
+            <a class="navbar-item" href="/about/">
+            
+            <i class="fas fa-heart pr-2"></i> 
+            ¿Quiénes somos?</a>
+            
+            <a class="navbar-item" href="/en/">
+            
+            <i class="fas fa-language pr-2"></i> 
+            EN</a>
+            
+        </div>
+        <div class="navbar-end">
+            <div class="navbar-item">
+                <form class="field has-addons">
+                    <div class="control">
+                        <input class="input" id="searchTerm" type="text" value="" placeholder=Busca&#32;aquí...>
+                    </div>
+                    <div class="control">
+                        <button id="searchButton" class="button is-secondary">Buscar</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</nav><div id="searchResults" class="section is-hidden">
+    <h4 class="title is-3"> Search results </h4>
+    <div id="searchResultsCol" class="columns is-multiline">
+        
+    </div>
+</div>
+<script id="search-result-template" type="text/x-js-template">
+    <div class="column is-one-quarter">
+        <div class="result" id="summary-${key}">
+            <div class="card" style="border-radius: 1%;">
+    <div class="card-image">
+        <figure class="image is-4by3">
+        <img style="border-radius: 3%;" src="${image}" alt="Placeholder image">
+        </figure>
+    </div>
+    <div class="card-content">
+        <div class="media-content">
+            <p class="title is-4 has-text-centered">${title}</p>
+            <p class="subtitle is-6 "><em></em></p>
+        </div>
+        <div class="content">
+            <p class="is-small">${snippet}</p>
+        </div>
+        <div class="card-footer">
+            <a href="${link}" class="card-footer-item button is-primary">View Recipe</a>
+        </div>
+    </div>
+</div>
+        </div>
+    </div>
+</script><div id="content">
+<div class="section">
+    <div class="columns is-centered">
+        <div class="column is-full-mobile is-half-desktop" style="border-radius: 1%; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)">
+            <div class="is-flex" style="justify-content: center; border-radius: 3%; background-color: #f0f5f1; position: relative;">
+                <figure class="image"> 
+                    <img style="border-radius: 3%;" src="https://pritirrecetas.github.io/images/fajitas.jpeg" alt="Placeholder image">
+                    
+                </figure>
+            </div>
+            <br>
+            <div class="container has-text-centered">
+                <h1 class="title is-bold"> Fajitas</h1>
+                <p class="subtitle is-italic"> </p>
+                <br>
+                <div class="container has-text-right">
+                    
+
+<i class="far fa-calendar-alt"></i>
+<time datetime="06-05-2022">5 jun. 2022</time>
+
+<i class="fas fa-tags"></i>
+
+
+<a class="btn btn-sm btn-outline-dark tag-btn" href="https://pritirrecetas.github.io/tags/vegano">vegano</a>
+
+
+                </div>
+                <hr>
+            </div>
+            <div class="container has-text-centered"style="padding: 1em">    
+                <div class="columns is-mobile is-multiline">
+    <div class="column is-half-mobile" style="border-right: 1px solid #dbdbdb">
+        <i class="fas fa-concierge-bell fa-lg"></i>
+        <div></div>
+        <p class="has-text-weight-bold is-size-6">Raciones</p>
+        <div></div>
+        4
+    </div>
+    <div class="column is-half-mobile" style="border-right: 1px solid #dbdbdb">
+        <i class="fas fa-hourglass-half fa-lg"></i>
+        <div></div>
+        <p class="has-text-weight-bold is-size-6">Preparación</p>
+        <div></div>
+        5 minutos
+    </div>
+    <div class="column is-half-mobile" style="border-right: 1px solid #dbdbdb">
+        <i class="fas fa-temperature-high fa-lg"></i>
+        <div></div>
+        
+            <p class="has-text-weight-bold is-size-6">Tiempo total</p>
+        
+        <div></div>
+        
+            40 minutos
+        
+    </div>
+</div>
+            </div>
+            <hr>
+            <p class="subtitle is-italic"> </p>
+            <div class="content" style="padding: 1em">
+                <p>Os damos la bienvenida a la nueva edición de <em>Silvia y Gabriel ofendiendo culturas</em>. Es como una versión aún más incómoda de la <em>Diversión con banderas</em> de Sheldon y Amy, pero sin clichés grimosos sobre gente friki.</p>
+<p>No solemos pedir de restaurantes mexicanos porque intentamos no comer carne, a Gabriel no le sienta bien la comida demasiado picante (bla, bla, «por qué iba a querer que me ardan las entrañas» bla, bla…) y Silvia es <em>de esa gente</em> a la que el cilantro le sabe a jabón. El problema es que nos gusta <em>mucho</em> la comida mexicana y Tex-Mex. Así que nos hemos pasado los últimos años probando distintos ingredientes y combinaciones de especias hasta llegar a esta receta de fajitas rica, rebosante de verdura y a nuestra medida.</p>
+<p>Esta receta no está ni quiere estar más que <em>muy vagamente inspirada</em> por la comida mexicana de verdad. Si quieres aprender a preparar comida mexicana, seguro que tienes decenas de especialistas a un clic.</p>
+<p>Esta receta es una buena oportunidad para aprovechar verdura que te sobre por ahí, así que no tengas miedo a alejarte de nuestra receta e innovar. Lo único que es un poco delicado es la proporción entre el tomate y el resto de las verduras, ya que si la cambias mucho te puede quedar el relleno demasiado seco o demasiado líquido. Recomendamos usar fajitas de maíz (no de trigo), que suelen ser más crujientes y aportan al plato lo que nosotros llamamos afectuosamente «el factor CRONCH».</p>
+<h2 id="ingredientes">Ingredientes</h2>
+<ul>
+<li>3 dientes de ajo</li>
+<li>1 cebolla</li>
+<li>250 g de calabacín</li>
+<li>1 pimiento rojo</li>
+<li>1 tomate</li>
+<li>200 g de sustituto vegano de carne picada</li>
+<li>1 cucharada de comino</li>
+<li>Media cucharadita de pimentón</li>
+<li>Media cucharadita de ajo en polvo</li>
+<li>Un cuarto de cucharadita de orégano</li>
+<li>(Opcional) Un cuarto de cucharadita de pimienta negra</li>
+<li>8 tortillas de maíz</li>
+<li>3 cucharadas de aceite de oliva virgen extra</li>
+<li>(Opcional) Queso rallado para servir (a poder ser Monterrey Jack)</li>
+</ul>
+<h2 id="pasos">Pasos</h2>
+<ol>
+<li>
+<p>Pica el ajo y las cebollas. Calienta dos cucharadas de aceite a fuego medio en una olla de tamaño normal y corriente (o sartén, si tienes una lo suficientemente grande). Fríe el ajo hasta que se dore y, después, añade la cebolla. Deja que se fría hasta que la cebolla esté translúcida.</p>
+</li>
+<li>
+<p>Corta el calabacín y el pimiento rojo en trozos pequeños, y añádelo a la olla. Sala al gusto. Deja que se haga a fuego medio durante unos 5 minutos o hasta que el calabacín se vuelva más translúcido, removiendo de vez en cuando.</p>
+</li>
+<li>
+<p>Pica el tomate (sin pelar) y añádelo a la olla. Sala al gusto y remueve. Echa el comino, pimentón, orégano, pimienta y la mitad del ajo en polvo y remueve de nuevo. Sala al gusto y deja que se cocine todo junto a fuego medio durante 30 minutos.</p>
+</li>
+<li>
+<p>Cuando se estén terminando de hacer las verduras, fríe la carne vegana en una sartén con una cucharada de aceite y la otra mitad del ajo en polvo. Cuando esté frita y crujiente, échala en la olla con todos los demás ingredientes, remueve y deja que se mezclen los sabores del relleno uno o dos minutos.</p>
+</li>
+<li>
+<p>En una sartén pequeña, calienta una a una las tortillas de maíz hasta que estén crujientes por los dos lados pero sin quemarse. Al darle la vuelta, puedes añadir queso rallado sobre la tortilla para que se funda. Saca las tortillas de la sartén y sirve el relleno. Guarda un minuto de silencio por los 130 millones de personas mexicanas a las que acabas de insultar y disfruta del plato.</p>
+</li>
+</ol>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+        </div><p class="footer text-center">© 2022 Gabriel San Martín Fernández y Silvia González Sellán, con <a href="https://github.com/deranjer/hugo-cookbook" target="_blank">Hugo Cookbook Theme</a>, <a href="https://fontawesome.com/license/free" target="_blank">Font Awesome Icons</a> y  <a href="https://bulma.io/" target="_blank">Bulma CSS</a>.</p><script src="/js/umbrella.min.js"></script>
+<script src="/js/custom.js"></script>
+<script src="/js/menu.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.0/fuse.min.js"></script>
+
+</body>
+</html>
